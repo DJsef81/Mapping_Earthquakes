@@ -1,18 +1,15 @@
 # Mapping_Earthquakes
 
-Data Visualization Specialist (me) for Disaster Reporting Network, Data Driven storytelling on disasters around the world. 
+The Disaster Reporting Network have asked me to build a website with exciting data visualizations and interactive features on earthquakes from around the world. 
 
-Build exciting data visualizations with interactive features on earthquakes from around the world. 
-
-Basil, Head of Earthquake Disaster Response team 
-Earthquake maps that are informative and easy to use on desktop and mobile = positive buzz  for DRN
+Basil, Head of Earthquake Disaster Response team has asked for a page that displays Earthquake maps that are informative and easy to use on desktop and mobile, he hopes will then create positive buzz for the DRN.
 
 # Purpose
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
-# Tasks
-To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
-
-# Approach
-Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
-
+Visitors to the site will be able to gain the following information about earthquakes around the world over the last 7 days with a click of their mouse: 
+  * Visualize the world map in 3 different formats: street, satellite, and dark mode. 
+  * Visualize all earthquakes around the world with their magnitudes reflected by the radius of their circle markers and their color (with a color/magnitutde key on     the bottom right hand corner. 
+  * When clicking on a earthquake marker, a pop-up will appear with the city name of where the quake occurred and it's magnitude. 
+  * Visualize the worlds tectonic plates. 
+  * Focus soley on 5.0+ earthquake markers. 
