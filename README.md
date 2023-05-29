@@ -8,8 +8,8 @@ Basil, Head of Earthquake Disaster Response team has asked for a page that displ
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
 Visitors to the site will be able to gain the following information about earthquakes around the world over the last 7 days with a click of their mouse: 
-  * Visualize the world map in 3 different formats: street, satellite, and dark mode. 
-  * Visualize all earthquakes around the world with their magnitudes reflected by the radius of their circle markers and their color (with a color/magnitutde key on     the bottom right hand corner. 
-  * When clicking on a earthquake marker, a pop-up will appear with the city name of where the quake occurred and it's magnitude. 
-  * Visualize the worlds tectonic plates. 
-  * Focus soley on 5.0+ earthquake markers. 
+  * Visualize the world map in 3 different formats: street, satellite, and dark mode.
+  * Visualize all earthquakes around the world with their magnitudes reflected by the radius of their circle markers and their color (with a color/magnitude key on     the bottom right-hand corner).
+  * When clicking on an earthquake marker, a pop-up will appear with the city name of where the quake occurred and it's magnitude.
+  * Visualize the worlds tectonic plates.
+  * Focus solely on 5.0+ earthquake markers.
